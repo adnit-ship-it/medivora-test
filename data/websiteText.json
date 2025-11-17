@@ -9,7 +9,7 @@
         "provenResults": "Data-Driven Approach",
         "exceptionalCare": "Exceptional care"
       },
-      "ctaButton": "Take the Assessment",
+      "ctaButton": "Take the Assessmentasdfad",
       "media": {
         "background": {
           "src": "/assets/images/brand/hero-bg.png",
@@ -31,7 +31,7 @@
     },
     "trustedBy": {
       "show": true,
-      "title": "Trusted By",
+      "title": "Trusted Byasdas",
       "marquee": {
         "speed": 50
       },
@@ -100,11 +100,11 @@
     },
     "discover": {
       "show": true,
-      "title": "Discover Our Products",
-      "subtitle": "Lose Weight Today",
-      "shippingInfo": "Free Shipping. Fast Delivery.",
-      "providerText": "Speak to a provider today!",
-      "buyNowButton": "Buy Now",
+      "title": "Discover Our Productsasdas",
+      "subtitle": "Lose Weight Todaydasd",
+      "shippingInfo": "Free Shipping. Fast Delivery.asdas",
+      "providerText": "Speak to a provider today!sdasd",
+      "buyNowButton": "Buy Nowasdas",
       "fallbackProducts": [
         {
           "id": "mounjaro-injection",
@@ -140,7 +140,7 @@
     },
     "reviews": {
       "show": true,
-      "title": "What Our Customers Have To Say",
+      "title": "What Our Customers Have To Sayasdasd",
       "marquee": {
         "speed": 50
       },
@@ -259,7 +259,7 @@
     },
     "statistics": {
       "show": true,
-      "title": "Clinically Proven To Help You Lose Weight",
+      "title": "Clinically Proven To Help You Lose Weightasdasd",
       "cards": [
         {
           "value": "14.9%",
@@ -283,7 +283,7 @@
     },
     "journey": {
       "show": true,
-      "title": "Your Weight Loss Journey",
+      "title": "Your Weight Loss Journeyasdasd",
       "steps": [
         {
           "title": "Case Created",
@@ -441,8 +441,8 @@
   "about": {
     "banner": {
       "show": true,
-      "title": "About Ussdfsdf",
-      "subtitle": "Quality is our guarantee!dsfsd",
+      "title": "About Ussdfsdfdfsdfs",
+      "subtitle": "Quality is our guarantee!dsfsdsdf123",
       "description": "Medivora works to change the game in the health and wellness space allowing for certified medical care, made simple and effective.",
       "media": {
         "image": {

@@ -17,8 +17,8 @@ export default {
         backgroundColor: '#FFFFFF',
         bodyColor: '#FFFFFF',
         accentColor1: {
-          DEFAULT: 'var(--color-accentColor1, #FFFFFF)',
-          50: 'color-mix(in srgb, var(--color-accentColor1, #FFFFFF) 50%, transparent)',
+          DEFAULT: 'var(--color-accentColor1, #FF6B35)',
+          50: 'color-mix(in srgb, var(--color-accentColor1, #FF6B35) 50%, transparent)',
         },
         accentColor2: 'var(--color-accentColor2, #FFFFFF)',
       },
